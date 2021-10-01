@@ -1,3 +1,6 @@
 [submodule "clustering_tools"]
 	path = clustering_tools
 	url = git@github.com:DigitalInterruption/clustering_tools.git
+[submodule "RAPTOR-clustering-tools"]
+	path = RAPTOR-clustering-tools
+	url = git@github.com:DigitalInterruption/RAPTOR-clustering-tools.git
